@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Video Thumbnails
+Plugin Name: Video Thumbnails - iDSA
 Plugin URI: http://sutherlandboswell.com/projects/wordpress-video-thumbnails/
 Description: Automatically retrieve video thumbnails for your posts and display them in your theme. Currently supports YouTube, Vimeo, Blip.tv, Justin.tv, Dailymotion and Metacafe.
 Author: Sutherland Boswell
